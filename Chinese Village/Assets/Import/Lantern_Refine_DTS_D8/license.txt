@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lantern Refine DTS D8
+* source:	https://sketchfab.com/3d-models/lantern-refine-dts-d8-e3ce8420fe4b412dad740042e7c14a76
+* author:	phiranpat (https://sketchfab.com/phiranpat)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lantern Refine DTS D8" (https://sketchfab.com/3d-models/lantern-refine-dts-d8-e3ce8420fe4b412dad740042e7c14a76) by phiranpat (https://sketchfab.com/phiranpat) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
